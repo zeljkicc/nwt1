@@ -1,6 +1,6 @@
 ## Synopsis
 
-First project for Advanced Web Technologies class. Website for a lawyers firm. 
+First project for Advanced Web Technologies class. Web pages for a lawyers firm. 
 
 (Responsive design, Bootstrap, Web fonts, Sprites)
 
