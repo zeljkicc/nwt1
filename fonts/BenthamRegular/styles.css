@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'BenthamRegular';
+  src: url('BenthamRegular.eot?#iefix') format('embedded-opentype'),  url('BenthamRegular.otf')  format('opentype'),
+	     url('BenthamRegular.woff') format('woff'), url('BenthamRegular.ttf')  format('truetype'), url('BenthamRegular.svg#BenthamRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
