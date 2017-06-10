@@ -1,6 +1,8 @@
 ## Synopsis
 
-First project for Advanced Web Technologies class
+First project for Advanced Web Technologies class. 
+
+(Responsive design, Bootstrap, Web fonts, Sprites)
 
 ## Installation
 
